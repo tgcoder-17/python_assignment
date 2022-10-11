@@ -2,7 +2,7 @@ import re
 
 ex = re.compile(r'@msubaroda.ac.in$')
 
-path = "D:/Tushar/A9/temp/emails.txt"
+path = "G:/MSU/Sem-7/Python/Programs/A9/temp/emails.txt"
 
 li = []
 

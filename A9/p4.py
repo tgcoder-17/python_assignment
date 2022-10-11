@@ -3,7 +3,7 @@ import os
 
 ex = re.compile(r'def +')
 
-dir = "D:/Tushar/A9/temp"
+dir = "G:/MSU/Sem-7/Python/Programs/A9/temp"
 
 dir_list = os.listdir(dir)
 
